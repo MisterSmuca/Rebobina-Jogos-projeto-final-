@@ -12,7 +12,7 @@ function ChamadaFinal() {
 
         <p className="lead mt-3">
           Relembre personagens, músicas e histórias que fizeram parte
-          de diferentes gerações.
+          de diferentes gerações. Tudo em só uma rebobinada!🕹️
         </p>
 
         <a
